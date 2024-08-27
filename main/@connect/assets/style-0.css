@@ -272,7 +272,7 @@
 .jbg .loading[data-v-2032aa39]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -315,7 +315,7 @@
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -519,13 +519,13 @@
     border-radius: 20px;
     background: #6CC487;
     font-size: 17px;
-    box-shadow: 0 4px #0e167d;
+    box-shadow: 0 4px #01B463;
     transition: box-shadow .2s
 }
 
 .buttons .next[data-v-2032aa39]:active,
 .buttons .done[data-v-2032aa39]:active {
-    box-shadow: 0 0 #0e167d
+    box-shadow: 0 0 #01B463
 }
 
 .buttons .done[data-v-2032aa39] {
@@ -3043,7 +3043,7 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-c4b66a33]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -3086,7 +3086,7 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -3384,7 +3384,7 @@ html.disable--interaction.show--consent body {
 .jbg .loading[data-v-d0abff79]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -3427,7 +3427,7 @@ html.disable--interaction.show--consent body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -3684,7 +3684,7 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-420dd700]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -3727,7 +3727,7 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -3926,7 +3926,7 @@ hr[data-v-d0abff79] {
 .jbg .loading[data-v-db592987]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -3969,7 +3969,7 @@ hr[data-v-d0abff79] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -4177,7 +4177,7 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-2e99f2ab]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -4220,7 +4220,7 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -4266,7 +4266,7 @@ button.twitch[data-v-db592987] {
 }
 
 .jbg.modal[data-v-2e99f2ab] {
-    background: #0e167dd9
+    background: #01B463d9
 }
 
 .jbg .content[data-v-2e99f2ab] {
@@ -4612,7 +4612,7 @@ button.twitch[data-v-db592987] {
 .jbg .loading[data-v-566a475d]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -4655,7 +4655,7 @@ button.twitch[data-v-db592987] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -4797,7 +4797,7 @@ button.twitch[data-v-db592987] {
     right: 15px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #01B463;
     border-radius: 20px;
     animation: reconnecting-spinner-566a475d 1s infinite linear reverse
 }
@@ -4809,7 +4809,7 @@ button.twitch[data-v-db592987] {
     left: -6px;
     width: 40px;
     height: 40px;
-    border: 6px solid #0E167D;
+    border: 6px solid #01B463;
     border-bottom: 6px solid #FFF;
     border-radius: 20px
 }
@@ -5035,7 +5035,7 @@ body {
 .jbg .loading[data-v-711f56b2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -5078,7 +5078,7 @@ body {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -5310,7 +5310,7 @@ hr[data-v-711f56b2] {
 .jbg .loading[data-v-47cae0dc]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -5353,7 +5353,7 @@ hr[data-v-711f56b2] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -5619,7 +5619,7 @@ button.audience.connecting:before {
 .jbg .loading[data-v-a6916483]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -5662,7 +5662,7 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -5906,7 +5906,7 @@ button.audience.connecting:before {
     padding: 0 10px;
     background: #fff;
     border-radius: 0 0 5px 5px;
-    color: #0e167d;
+    color: #01B463;
     font-size: 12px;
     white-space: nowrap;
     transform: translate(-50%);
@@ -5919,14 +5919,14 @@ button.audience.connecting:before {
     width: 11px;
     height: 11px;
     margin-left: 1px;
-    fill: #0e167d
+    fill: #01B463
 }
 
 .name[data-v-a6916483] {
     float: left;
     width: 75%;
     padding-top: 3px;
-    color: #0e167d;
+    color: #01B463;
     font-size: 14px;
     text-transform: uppercase;
     transition: color .1s;
@@ -5989,7 +5989,7 @@ button.audience.connecting:before {
     height: 40px;
     padding: 7px;
     margin-left: -10px;
-    background: #0e167d;
+    background: #01B463;
     border-radius: 20px;
     transform: rotate(15deg)
 }
@@ -6252,7 +6252,7 @@ button.audience.connecting:before {
 .jbg .loading[data-v-b57c3cb3]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -6295,7 +6295,7 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -6533,7 +6533,7 @@ button.audience.connecting:before {
 .jbg .loading[data-v-1a297816]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -6576,7 +6576,7 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -6839,7 +6839,7 @@ button.audience.connecting:before {
 .jbg .loading[data-v-727b0bbe]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -6882,7 +6882,7 @@ button.audience.connecting:before {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -6949,7 +6949,7 @@ li.appearance svg[data-v-727b0bbe] {
 }
 
 li.appearance svg .frame[data-v-727b0bbe] {
-    fill: #0e167d;
+    fill: #01B463;
     stroke-width: 2.5px
 }
 
@@ -7183,7 +7183,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-4e7c2aa2]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -7226,7 +7226,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -7461,7 +7461,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d35c1006]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -7504,7 +7504,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -7641,7 +7641,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .nav li.moderator a[data-v-d35c1006] {
     color: #fff;
     border: 5px solid #c7c7c7;
-    background-color: #0e167d;
+    background-color: #01B463;
     transition: background-color .25s
 }
 
@@ -7875,7 +7875,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-40ec1b21]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -7918,7 +7918,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -7963,7 +7963,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     height: auto;
     padding: 3px 10px 2px;
     margin: 0;
-    background: #0e167d;
+    background: #01B463;
     font-size: 12px;
     box-shadow: none
 }
@@ -7978,12 +7978,12 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .data[data-v-40ec1b21] {
     margin: 25px 0 10px;
     padding-top: 15px;
-    border-top: 1px solid #0E167D;
+    border-top: 1px solid #01B463;
     text-align: center
 }
 
 .data button[data-v-40ec1b21] {
-    background: #0e167d;
+    background: #01B463;
     box-shadow: none;
     height: auto;
     padding: 10px;
@@ -8178,7 +8178,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-604bf824]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -8221,7 +8221,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -8576,7 +8576,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 .jbg .loading[data-v-d720b942]:after {
     width: 12px;
     height: 12px;
-    border: 2px solid #0E167D;
+    border: 2px solid #01B463;
     border-radius: 50%;
     background: #6CC487;
     animation-fill-mode: both;
@@ -8619,7 +8619,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     20%,
     80%,
     to {
-        background-color: #0e167d
+        background-color: #01B463
     }
 
     50% {
@@ -8733,7 +8733,7 @@ body {
     --cc-btn-primary-bg: #6CC487;
     --cc-btn-primary-color: #E0E0E0;
     --cc-btn-primary-border-color: #E0E0E0;
-    --cc-btn-primary-hover-bg: #0E167D;
+    --cc-btn-primary-hover-bg: #01B463;
     --cc-btn-primary-hover-color: #E0E0E0;
     --cc-separator-border-color: #6CC487
 }
