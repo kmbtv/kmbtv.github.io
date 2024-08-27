@@ -4820,7 +4820,7 @@ button.twitch[data-v-db592987] {
     }
 
     to {
-        background: #3241ce
+        background: #FFEC95
     }
 }
 
@@ -7652,7 +7652,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
 }
 
 .nav li.moderator a[data-v-d35c1006]:active {
-    background-color: #3241ce
+    background-color: #FFEC95
 }
 
 .nav li.social a[data-v-d35c1006] {
@@ -7685,7 +7685,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     top: -10px;
     left: auto;
     right: -10px;
-    border: 4px solid #3241CE
+    border: 4px solid #FFEC95
 }
 
 @keyframes fade-animation-d35c1006 {
@@ -8374,7 +8374,7 @@ li.appearance svg .celestial[data-v-727b0bbe] {
     width: 100%;
     height: calc(100% - 50px);
     padding: 0 15px;
-    background-color: #3241ce;
+    background-color: #FFEC95;
     overflow-y: auto;
     z-index: 99;
     transition: height .45s
@@ -8727,7 +8727,7 @@ body {
 }
 
 #cc-main {
-    --cc-bg: #3241CE;
+    --cc-bg: #FFEC95;
     --cc-primary-color: #ffffff;
     --cc-secondary-color: #ffffff;
     --cc-btn-primary-bg: #6CC487;
