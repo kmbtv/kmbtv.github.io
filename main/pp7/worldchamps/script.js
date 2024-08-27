@@ -18004,7 +18004,7 @@ class kt {
         }, e.titleText = e.titleText || "Error", Xt.fire(e)
     }
     static async showError(e) {
-        const i = new URL("main/pp7/worldchamps/assets/8cdd50e7.png", self.location).href,
+        const i = new URL("main/pp7/worldchamps/assets/TurnOff.png", self.location).href,
             n = e.customClass || {};
         return e.customClass = {
             ...n,
