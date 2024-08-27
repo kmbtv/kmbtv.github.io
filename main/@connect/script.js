@@ -36043,7 +36043,7 @@ from your past games list.`,
     kae = {
         CAMERA: "[b]HEADS UP:[/b] We’re not detecting a camera, but you can still play the game without a photo. If this seems wrong, try joining with a different browser.",
         STYLE: "[b]HEADS UP:[/b] Your browser seems a bit outdated, and will have some issues displaying this game.",
-        TOS: "KMBTV is not affiliated with Kill Me Baby nor Jackbox Games. \n Jackbox [tos]Terms of Service[/tos] still apply."
+        TOS: "KMBTV is not affiliated with Kill Me Baby nor Jackbox Games \n Jackbox [tos]Terms of Service[/tos] still apply"
     },
     Gae = {
         BRANCH: wae,
