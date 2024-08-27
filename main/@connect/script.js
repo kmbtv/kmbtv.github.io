@@ -15351,7 +15351,7 @@ const N3 = [{
         categoryId: "EverydayGame",
         shopItems: ["mugs"]
     }, {
-        name: "Champ'd Up",
+        name: "Assassin Showdown",
         tag: "worldchamps",
         wrapper: "marionette",
         isPublic: !0,
