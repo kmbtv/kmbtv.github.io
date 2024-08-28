@@ -9486,13 +9486,13 @@ fieldset[disabled] .btn-danger:hover {
     border: 0;
     border-radius: .25em;
     background: initial;
-    background-color: #7066e0;
+    background-color: #6CC487;
     color: #fff;
     font-size: 1em
 }
 
 .swal2-styled.swal2-confirm:focus {
-    box-shadow: 0 0 0 3px #7066e080
+    box-shadow: 0 0 0 3px #6CC48780
 }
 
 .swal2-styled.swal2-deny {
@@ -21341,7 +21341,7 @@ button {
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url(TipMessage2.png);
+    background-image: url(TipMessage.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
