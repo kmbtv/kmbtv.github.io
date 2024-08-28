@@ -21446,7 +21446,6 @@ button {
 .worldchamps .Survey {
     color: #fafafa;
     background: #000000
-    background-image: url(noonBG.png);
 }
 
 .worldchamps .MakeSingleChoice button.choice-button,
