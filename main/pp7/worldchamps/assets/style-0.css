@@ -21171,7 +21171,7 @@ button {
 }
 
 .worldchamps .Lobby {
-    background-image: url(schoolBG.png);
+    background-image: url(fenceBG.png);
     background-repeat: repeat-x;
     background-size: contain;
     display: flex;
