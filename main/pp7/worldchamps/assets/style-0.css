@@ -21741,7 +21741,7 @@ button {
 }
 
 .worldchamps .Lobby.Maroon .mech {
-    background-image: url(littlegirl-model-text.png)
+    background-image: url(littlegirl-model.png)
 }
 
 .worldchamps .playerTopBarView.Cyan {
@@ -21761,7 +21761,7 @@ button {
 }
 
 .worldchamps .Lobby.Cyan .mech {
-    background-image: url(serafuku-model-text.png)
+    background-image: url(serafuku-model.png)
 }
 
 .worldchamps .playerTopBarView.Indigo {
@@ -21781,7 +21781,7 @@ button {
 }
 
 .worldchamps .Lobby.Indigo .mech {
-    background-image: url(spy-model-text.png)
+    background-image: url(spy-model.png)
 }
 
 .worldchamps .playerTopBarView.Viridian {
@@ -21801,7 +21801,7 @@ button {
 }
 
 .worldchamps .Lobby.Viridian .mech {
-    background-image: url(snake-model-text.png)
+    background-image: url(snake-model.png)
 }
 
 .worldchamps .playerTopBarView.Lavender {
