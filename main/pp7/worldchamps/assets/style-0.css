@@ -21118,6 +21118,13 @@ li>a.button-color.active[data-color="#000000"] {
     font-style: normal
 }
 
+@font-face {
+    font-family: KhamKg;
+    src: url(kmkg.ttf) format("truetype");
+    font-weight: 400;
+    font-style: normal
+}
+
 body,
 p,
 h1,
@@ -21130,7 +21137,7 @@ td,
 th,
 span,
 button {
-    font-family: BuiltSB, sans-serif;
+    font-family: KhamKg, sans-serif;
     font-size: 24px;
     font-weight: 400;
     text-align: center;
@@ -21596,7 +21603,7 @@ button {
 }
 
 .worldchamps.swal2-popup.swal2-modal {
-    font-family: BuiltSB, sans-serif;
+    font-family: KhamKg, sans-serif;
     font-size: 24px;
     font-weight: 400;
     border-radius: 0;
