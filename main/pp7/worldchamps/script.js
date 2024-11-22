@@ -23698,7 +23698,9 @@ const p1 = xt.View.extend({
                 hex: "#00ff97"
             }, {
                 hex: "#d7ff13"
-            }],
+            },{
+		hex: "#ff0018"
+	    }],
             thicknesses: [2, 4],
             defaultIndex: 4,
             forceName: !1,
@@ -23715,7 +23717,7 @@ const p1 = xt.View.extend({
                 tipTaperFactor: 1
             },
             strings: Ue.extend({}, Qi.prototype.model.defaults.strings, {
-                name_modal_text: "Name your champion:",
+                name_modal_text: "Name your assassin:",
                 name_modal_confirm: "OK",
                 name_modal_cancel: "Cancel",
                 name_error_empty: "You need to write something!",
