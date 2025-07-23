@@ -21676,7 +21676,7 @@ button {
 }
 
 .worldchamps .playerTopBar .playerIcon.Chartreuse {
-    background-image: url(061d4375.png)
+    background-image: url(killertopbar.png)
 }
 
 .worldchamps .Lobby .characters.Chartreuse {
@@ -21688,7 +21688,7 @@ button {
 }
 
 .worldchamps .Lobby.Chartreuse .mech {
-    background-image: url(061d4375.png)
+    background-image: url(killer-model.png)
 }
 
 .worldchamps .playerTopBarView.Magenta {
@@ -21696,7 +21696,7 @@ button {
 }
 
 .worldchamps .playerTopBar .playerIcon.Magenta {
-    background-image: url(dac7d79a.png)
+    background-image: url(ninjatopbar.png)
 }
 
 .worldchamps .Lobby .characters.Magenta {
@@ -21708,7 +21708,7 @@ button {
 }
 
 .worldchamps .Lobby.Magenta .mech {
-    background-image: url(dac7d79a.png)
+    background-image: url(ninja-model.png)
 }
 
 .worldchamps .playerTopBarView.GoldenRod {
